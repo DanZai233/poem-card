@@ -1,0 +1,6 @@
+{
+  "name": "诗意卡片",
+  "description": "输入诗句或题目自动检索完整诗词，根据意境切换配色和背景，支持释义、赏析、语音朗诵以及个性化排版卡片生成与分享。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
